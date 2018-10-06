@@ -24,8 +24,8 @@ img {
 		<center><img src="https://upload.wikimedia.org/wikipedia/en/0/07/Lifetitle.jpg" alt="The image only says life with building behind it"></center>
 		<h1>Hello how's life?</h1>
 		<center>
-			<input placeholder="how is life going?"></input>
-			<button type="submit"></button>
+			<input placeholder="how is life going?">
+			<input type="submit"></input>
 		</center>
 	</body>
 </html>
