@@ -25,7 +25,7 @@ img {
 		<h1>Hello how's life?</h1>
 		<center>
 			<input placeholder="how is life going?">
-			<input type="submit"></input>
+			<input type="submit">
 		</center>
 	</body>
 </html>
